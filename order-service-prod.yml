@@ -15,4 +15,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
 # 自定义配置
-name: order-service-prod-1.0
+name: order-service-prod-2.0
+password:'{eb9fc3981846a75ceaecb889a55bcc0e55f0ea071efac7a7bdd6033942cba339}'
